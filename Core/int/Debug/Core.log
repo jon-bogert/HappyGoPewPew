@@ -1,0 +1,8 @@
+﻿  Bullet.cpp
+  CoreBuilder.cpp
+F:\School\VGP230 2D Game\Shooter2D\Core\src\CoreBuilder.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Enemy.cpp
+  Game.cpp
+  Player.cpp
+  Generating Code...
+  Core.vcxproj -> F:\School\VGP230 2D Game\Shooter2D\Build\Debug\Core.exe
